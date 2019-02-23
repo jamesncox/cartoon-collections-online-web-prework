@@ -1,4 +1,4 @@
-def roll_call_dwarves(dwarves)
+def roll_call_dwarves(array)
   dwarves.each do |dwarf|
   # Your code here
 end
